@@ -1,0 +1,7 @@
+{
+  "name": "Zero Classes",
+  "description": "A comprehensive React MVP for an online coaching platform featuring role-based dashboards, simulated class scheduling with Google Meet integration, file resource management, and a mock payment gateway. Includes an AI Teaching Assistant powered by Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
